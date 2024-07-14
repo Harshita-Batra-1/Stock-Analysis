@@ -146,15 +146,3 @@ As most of the research shows that ZeroR, Random Forest and Naïve Bayes classif
        11        1:?      1:neg       0.51 
        12        1:?      2:pos       0.77 
 
-## Contributions
-
-Please feel free to create a Pull Request for adding implementations of the algorithms discussed in different frameworks or improving the existing implementations
-
-## Support
-
-If you found this useful, please consider starring(★) the repo so that it can reach a broader audience
-
-## License
-
-This project is licensed under the MIT License
-
